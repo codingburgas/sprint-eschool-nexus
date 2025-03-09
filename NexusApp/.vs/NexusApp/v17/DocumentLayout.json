@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:buttons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:questions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:buttons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BEE706-2C97-4E6F-AAB8-FA0766C7AABF}|NexusApp.vcxproj|solutionrelative:buttons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,68 +42,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "menu.cpp",
               "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.cpp",
               "RelativeDocumentMoniker": "menu.cpp",
               "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.cpp",
               "RelativeToolTip": "menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwG0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-07T19:07:45.626Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "buttons.cpp",
-              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.cpp",
-              "RelativeDocumentMoniker": "buttons.cpp",
-              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.cpp",
-              "RelativeToolTip": "buttons.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-07T19:46:16.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.h",
-              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\app.h",
-              "RelativeDocumentMoniker": "app.h",
-              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\app.h",
-              "RelativeToolTip": "app.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T19:33:08.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "menu.h",
-              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.h",
-              "RelativeDocumentMoniker": "menu.h",
-              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.h",
-              "RelativeToolTip": "menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T19:07:56.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "buttons.h",
               "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.h",
               "RelativeDocumentMoniker": "buttons.h",
               "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\buttons.h",
               "RelativeToolTip": "buttons.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T18:34:06.692Z",
+              "WhenOpened": "2025-03-09T15:52:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "questions.txt",
+              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.txt",
+              "RelativeDocumentMoniker": "questions.txt",
+              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.txt",
+              "RelativeToolTip": "questions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-09T15:59:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.h",
+              "RelativeDocumentMoniker": "menu.h",
+              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\menu.h",
+              "RelativeToolTip": "menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T19:07:56.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "questions.cpp",
+              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.cpp",
+              "RelativeDocumentMoniker": "questions.cpp",
+              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.cpp",
+              "RelativeToolTip": "questions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T13:35:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questions.h",
+              "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.h",
+              "RelativeDocumentMoniker": "questions.h",
+              "ToolTip": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\questions.h",
+              "RelativeToolTip": "questions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T12:29:24.966Z",
               "EditorCaption": ""
             },
             {
@@ -112,11 +133,12 @@
               "RelativeToolTip": "app.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T19:32:56.837Z"
+              "WhenOpened": "2025-03-04T19:32:56.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\SCHOOL\\Nexus\\sprint-eschool-nexus\\NexusApp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -124,7 +146,8 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T19:25:02.315Z"
+              "WhenOpened": "2025-03-04T19:25:02.315Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,10 @@
+TEST1;What is the capital of France?;Paris,London,Berlin,Madrid; CORRECT:Paris
+TEST1;What is 2 + 2?;3,4,5,6;CORRECT:4
+TEST1;What is the largest planet in our solar system?;Jupiter,Saturn,Uranus,Neptune;CORRECT:Jupiter
+TEST1;Which animal is known as the "king of the jungle"?;Lion,Tiger,Elephant,Giraffe;CORRECT:Lion
+TEST1;What is the chemical symbol for water?;H2O,CO2,NaCl,O2;CORRECT:H2O
+TEST2;Who wrote "Romeo and Juliet"?;William Shakespeare,Charles Dickens,Jane Austen,Mark Twain;CORRECT:William Shakespeare
+TEST2;What year did World War II end?;1945,1939,1950,1941;CORRECT:1945
+TEST2;What is the capital of Japan?;Tokyo,Kyoto,Osaka,Hiroshima;CORRECT:Tokyo
+TEST2;Which continent is known as the "Land Down Under"?;Australia,Africa,South America,Europe;CORRECT:Australia
+TEST2;What is the largest ocean in the world?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;CORRECT:Pacific Ocean

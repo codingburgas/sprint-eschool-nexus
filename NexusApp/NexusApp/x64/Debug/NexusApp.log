@@ -1,8 +1,6 @@
 ﻿  app.cpp
-  buttons.cpp
-C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(7,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(7,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   main.cpp
   menu.cpp
+  questions.cpp
   Generating Code...
   NexusApp.vcxproj -> C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
