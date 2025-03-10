@@ -8,7 +8,7 @@
 
 Menu::Menu() {
    
-    
+ 
     score = 0;
 }
 
@@ -32,8 +32,10 @@ void Menu::draw(int state) {
         DrawButton(SignUp);
         DrawButton(LogIn);
         break;
-    case 2:
-    case 3:
+    case 2://sign
+        DrawButton(Done);
+        break;
+    case 3://log in 
         DrawButton(Done);
         break;
     case 4:
@@ -41,9 +43,9 @@ void Menu::draw(int state) {
         DrawButton(Subject2);
         DrawButton(Subject3);
         break;
-    case 5:
-    case 6:
-    case 7:
+    case 5://subject1
+    case 6://subject2
+    case 7://subject3
         DrawButton(Test1);
         DrawButton(Test2);
         DrawButton(Test3);
