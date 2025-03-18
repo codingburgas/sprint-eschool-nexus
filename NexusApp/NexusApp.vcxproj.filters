@@ -30,6 +30,9 @@
     <ClCompile Include="questions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -47,12 +50,18 @@
     <ClInclude Include="questions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="score.h">
+    <ClInclude Include="test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="questions.txt">
+    <Text Include="math_easy.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="geography_easy.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="science_easy.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
