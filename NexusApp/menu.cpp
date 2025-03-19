@@ -41,7 +41,7 @@ void Menu::draw(int state) {
         DrawButton(Back);
         break;
     case 3: // Log-in
-        DrawText("Log Into Your Account", 320, 220, 30, DARKGRAY);
+        DrawText("Log Into Your Account", 340, 220, 30, DARKGRAY);
         DrawButton(Done);
         DrawButton(Back);
         break;

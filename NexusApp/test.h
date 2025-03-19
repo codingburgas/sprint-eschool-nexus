@@ -1,4 +1,3 @@
-// test.h
 #ifndef TEST_H
 #define TEST_H
 
@@ -7,6 +6,7 @@
 #include "questions.h"
 
 #define TOTAL_QUESTIONS 20 // Define TOTAL_QUESTIONS here
+
 class Test {
 private:
     std::vector<Question> questions;
@@ -14,6 +14,7 @@ private:
     int score;
     bool finished;
     std::string filename; // Declare filename as a member
+    int selectedOption; // Add selectedOption to track the selected option for each question
 
 public:
     Test(const std::string& filename);
