@@ -1,0 +1,120 @@
+﻿What is 135 + 248?
+372
+373
+382
+383
+3
+What is 543 - 267?
+274
+276
+278
+280
+2
+What is 24 * 15?
+340
+350
+360
+370
+3
+What is 256 / 8?
+30
+31
+32
+33
+3
+What is 25% of 240?
+50
+55
+60
+65
+3
+If a number is doubled and then increased by 10, the result is 50. What was the original number?
+15
+18
+20
+22
+3
+What is the square root of 196?
+12
+13
+14
+15
+3
+What is 7² + 5²?
+70
+74
+78
+82
+2
+If a train travels at 90 km/h for 3.5 hours, how far does it go?
+280 km
+310 km
+315 km
+330 km
+3
+A shop increases the price of a product from $80 to $100. What is the percentage increase?
+20%
+22.5%
+25%
+30%
+3
+What is 3³ + 4³?
+85
+89
+91
+97
+2
+A rectangle has a length of 12 cm and width of 5 cm. What is its area?
+50 cm²
+55 cm²
+60 cm²
+65 cm²
+1
+What is the remainder when 287 is divided by 9?
+5
+6
+7
+8
+3
+A car consumes 6 liters of fuel per 100 km. How much fuel is needed for a 450 km journey?
+24 liters
+26 liters
+27 liters
+30 liters
+3
+What is the next number in the sequence: 3, 6, 12, 24, 48, ___?
+72
+96
+100
+120
+2
+A cube has a volume of 125 cm³. What is the length of one of its sides?
+4 cm
+5 cm
+6 cm
+7 cm
+2
+What is 144 / (12 - 4)?
+14
+16
+18
+20
+3
+If a number is multiplied by 4 and then 8 is subtracted, the result is 40. What is the number?
+10
+12
+14
+16
+3
+A man has 5 red shirts, 3 blue shirts, and 2 green shirts. If he randomly picks one, what is the probability that it is red?
+1/3
+1/2
+5/10
+5/8
+4
+A water tank is filled at a rate of 12 liters per minute. How much water is in the tank after 2 hours?
+1200 liters
+1320 liters
+1440 liters
+1500 liters
+3

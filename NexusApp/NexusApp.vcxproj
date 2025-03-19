@@ -150,8 +150,14 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="geography_easy.txt" />
+    <Text Include="geography_hard.txt" />
+    <Text Include="geography_medium.txt" />
     <Text Include="math_easy.txt" />
+    <Text Include="math_hard.txt" />
+    <Text Include="math_medium.txt" />
     <Text Include="science_easy.txt" />
+    <Text Include="science_hard.txt" />
+    <Text Include="science_medium.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

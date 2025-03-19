@@ -1,2 +1,13 @@
-﻿  menu.cpp
-  NexusApp.vcxproj -> F:\Projects\e shcool\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
+﻿  app.cpp
+  buttons.cpp
+F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\buttons.cpp(7,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\buttons.cpp(7,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  menu.cpp
+  questions.cpp
+  test.cpp
+F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\test.cpp(36,36): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  LINK : F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  NexusApp.vcxproj -> F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe

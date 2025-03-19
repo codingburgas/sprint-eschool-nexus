@@ -64,5 +64,23 @@
     <Text Include="science_easy.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="geography_medium.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="geography_hard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="math_medium.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="math_hard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="science_medium.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="science_hard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
