@@ -1,5 +1,9 @@
 # Sprint-9th-grade-Eschool
-<h2>TEAM NEXUS<h1></h2>
+<h2 align="center">TEAM NEXUS<h1></h2>
+
+<p align="center">
+ <img src="logo.png" alt="Nexus Logo" width="200px"/>
+</p>
 
 #  About the idea
 Nexus E-School is an electronic school platform where students can log in, take tests, and view their grades. The goal is to make online learning seamless and efficient through an intuitive interface.
@@ -9,9 +13,9 @@ Nexus E-School is an electronic school platform where students can log in, take 
 
 ##  Our Team 🧒<br>
 - **Teodor Despotov** - Scrum Trainer  (<a href = "https://github.com/TVDespotov23">GitHub</a>)<br>
-- **Kaloyan Boychev** - Backend Developer (<a href = "https://github.com/KBoychev23">GitHub</a>)<br>
-- **Valeri Tenev** - Frontend Developer (<a href = "https://github.com/VTenev23">GitHub</a>)<br>
-- **Lyubomir Iliev** - Designer (<a href = "https://github.com/LLIliev23">GitHub</a>)<br>
+- **Kaloyan Boychev** - Backend Developer (<a href = "https://github.com/KIBoychev23">GitHub</a>)<br>
+- **Valeri Tenev** - Frontend Developer (<a href = "https://github.com/VATenev23">GitHub</a>)<br>
+- **Lyubomir Iliev** - Designer (<a href = "https://github.com/LANliev23">GitHub</a>)<br>
 
 <br>
 
