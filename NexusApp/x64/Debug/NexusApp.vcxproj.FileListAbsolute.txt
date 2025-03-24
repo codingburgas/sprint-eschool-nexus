@@ -1,2 +1,3 @@
 F:\Projects\e shcool\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
 F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe

@@ -133,14 +133,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="account.cpp" />
     <ClCompile Include="app.cpp" />
     <ClCompile Include="buttons.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="menu.cpp" />
-    <ClCompile Include="questions.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="account.h" />
     <ClInclude Include="app.h" />
     <ClInclude Include="buttons.h" />
     <ClInclude Include="main.h" />
@@ -149,6 +150,7 @@
     <ClInclude Include="test.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="accounts.txt" />
     <Text Include="geography_easy.txt" />
     <Text Include="geography_hard.txt" />
     <Text Include="geography_medium.txt" />

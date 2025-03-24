@@ -1,0 +1,6 @@
+test1 math_easy.txt 12
+valerienaiqkiqna sveta kato cqlo no ne znam do kude moga da pisha science_easy.txt 7
+test2 math_easy.txt 11
+test2 math_medium.txt 11
+Valeri math_easy.txt 11
+Valeri math_medium.txt 2

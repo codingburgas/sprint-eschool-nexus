@@ -1,5 +1,4 @@
-
-
+// buttons.h
 #ifndef BUTTONS_H
 #define BUTTONS_H
 
@@ -16,4 +15,4 @@ struct Button {
 void DrawButton(Button button);
 bool IsButtonPressed(Button button);
 
-#endif 
+#endif

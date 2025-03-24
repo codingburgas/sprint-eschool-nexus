@@ -1,3 +1,4 @@
+// test.cpp
 #include "test.h"
 #include "questions.h"
 #include <iostream>
@@ -103,4 +104,8 @@ bool Test::isFinished() const {
 
 int Test::getScore() const {
     return score;
+}
+
+std::string Test::getFileName() const {
+    return filename;
 }

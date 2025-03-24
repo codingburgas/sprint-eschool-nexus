@@ -1,120 +1,120 @@
-﻿Which continent has the most countries?
-Europe
+﻿What is the capital of France?
+London
+Berlin
+Paris
+Rome
+2
+Which continent is Brazil located in?
 Asia
 Africa
 South America
+Europe
 2
-Which two countries share the longest international land border?
-Russia & China
-USA & Mexico
-Canada & USA
-Russia & Kazakhstan
-2
-Which is the only sea without a coastline?
-Caspian Sea
-Dead Sea
-Sargasso Sea
-Black Sea
-2
-What is the least populated country in the world?
-San Marino
-Nauru
-Vatican City
-Tuvalu
-2
-Which river flows through the most countries?
+What is the largest ocean?
+Atlantic
+Indian
+Arctic
+Pacific
+3
+What is the longest river in the world?
 Amazon
 Nile
-Danube
-Congo
-2
-Which country is both in Europe and Asia?
-Ukraine
-Turkey
-Kazakhstan
-Armenia
+Yangtze
+Mississippi
 1
-What is the world's largest coral reef system?
-Great Barrier Reef
-Belize Barrier Reef
-Red Sea Coral Reef
-New Caledonia Barrier Reef
-0
-Which desert is the driest in the world?
+Which country is known as the "Land of the Rising Sun"?
+China
+Korea
+Japan
+Vietnam
+2
+What is the capital of Australia?
+Sydney
+Melbourne
+Canberra
+Brisbane
+2
+Which desert is located in Africa?
+Gobi
 Sahara
 Atacama
-Gobi
-Kalahari
+Arabian
 1
-Which city is located on two continents?
-Moscow
-Istanbul
-Buenos Aires
-Cairo
-1
-Which country is known as the "Land of a Thousand Lakes"?
-Sweden
-Norway
-Canada
-Finland
-3
-Which is the only continent with no native species of snakes?
-Antarctica
-Europe
-Australia
-North America
-0
-What is the name of the ocean current that moves warm water across the Atlantic?
-El Niño
-Gulf Stream
-Canary Current
-Kuroshio Current
-1
-Which U.S. state has the longest coastline?
-Alaska
-California
-Hawaii
-Florida
-0
-Which capital city is the highest in the world?
-La Paz
-Quito
-Kathmandu
-Thimphu
-0
-Which is the only country that borders both the Atlantic and Indian Oceans?
-South Africa
-Argentina
-Brazil
-Indonesia
-0
-Which African country has the most official languages?
-Nigeria
-South Africa
-Kenya
-Ethiopia
-1
-What is the deepest lake in the world?
-Baikal
-Tanganyika
-Superior
-Victoria
-0
-Which European country has the most neighbors?
-France
-Russia
-Germany
-Switzerland
-2
-Which country has the most freshwater lakes?
-Norway
-Canada
-Finland
-Russia
-1
-What is the southernmost active volcano in the world?
+What is the highest mountain in the world?
+K2
+Matterhorn
+Mount Everest
 Kilimanjaro
-Mount Erebus
-Mount Fuji
-Mauna Loa
+2
+Which country is famous for the Eiffel Tower?
+Spain
+Italy
+Germany
+France
+3
+What is the capital of Canada?
+Toronto
+Vancouver
+Montreal
+Ottawa
+3
+What is the largest country in the world by land area?
+USA
+China
+Russia
+Canada
+2
+Which sea is located between Europe and Africa?
+Mediterranean
+Caribbean
+Red
+Black
+0
+Which continent is Egypt located in?
+South America
+Europe
+Asia
+Africa
+3
+What is the capital of Japan?
+Seoul
+Beijing
+Tokyo
+Bangkok
+2
+Which country is known for the Great Barrier Reef?
+New Zealand
+Australia
+Indonesia
+Philippines
+1
+What is the capital of Italy?
+Madrid
+Athens
+Rome
+Lisbon
+2
+Which mountain range separates Europe from Asia?
+Andes
+Himalayas
+Ural
+Rocky
+2
+What is the capital of Mexico?
+Buenos Aires
+Bogota
+Mexico City
+Lima
+2
+Which country is known for the Taj Mahal?
+Pakistan
+Bangladesh
+India
+Sri Lanka
+2
+What is the capital of Spain?
+Lisbon
+Madrid
+Barcelona
+Valencia
 1

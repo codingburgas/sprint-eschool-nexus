@@ -1,3 +1,4 @@
+// test.h
 #ifndef TEST_H
 #define TEST_H
 
@@ -22,6 +23,7 @@ public:
     void handleInput();
     bool isFinished() const;
     int getScore() const;
+    std::string getFileName() const;
 
 private:
     void loadQuestions(const std::string& filename);

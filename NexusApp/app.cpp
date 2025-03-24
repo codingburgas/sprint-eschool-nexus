@@ -1,3 +1,4 @@
+// app.cpp
 #include "raylib.h"
 #include "buttons.h"
 #include "menu.h"
@@ -6,13 +7,13 @@
 
 void app() {
     int state = 1;
-    Menu menuObj; 
+    Menu menuObj;
 
     InitWindow(1000, 800, "NEXUS");
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
-      
+
         menuObj.update(state);
 
         BeginDrawing();

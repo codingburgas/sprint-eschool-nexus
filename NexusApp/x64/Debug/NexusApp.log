@@ -1,2 +1,19 @@
-﻿  app.cpp
-  NexusApp.vcxproj -> F:\Working\Programming\c++\e_school\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
+﻿  account.cpp
+  app.cpp
+  buttons.cpp
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(8,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(8,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  menu.cpp
+  test.cpp
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(37,36): warning C4101: 'e': unreferenced local variable
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(61,40): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(61,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(63,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(63,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(66,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\test.cpp(66,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  NexusApp.vcxproj -> C:\Users\valer\Downloads\sprint-eschool-nexus\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe
