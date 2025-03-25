@@ -2,7 +2,7 @@
 <h2 align="center">TEAM NEXUS<h1></h2>
 
 <p align="center">
- <img src="logo.png" alt="Nexus Logo" width="200px"/>
+ <img src="Documentation/logo.jpg" alt="Nexus Logo" width="500px"/>
 </p>
 
 #  About the idea
