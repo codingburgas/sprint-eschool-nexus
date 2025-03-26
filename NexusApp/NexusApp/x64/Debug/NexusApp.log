@@ -1,5 +1,17 @@
 ﻿  account.cpp
+  app.cpp
+  buttons.cpp
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(16,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\buttons.cpp(16,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
   menu.cpp
+  test.cpp
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(40,36): warning C4101: 'e': unreferenced local variable
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(68,40): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(68,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(72,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(72,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(75,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\test.cpp(75,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Generating Code...
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   NexusApp.vcxproj -> C:\SCHOOL\Nexus\sprint-eschool-nexus\NexusApp\x64\Debug\NexusApp.exe

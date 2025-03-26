@@ -11,6 +11,7 @@
 #include <algorithm>
 #include <map>
 
+// Menu Constructor
 Menu::Menu() {
     score = 0;
     currentTest = nullptr;
@@ -20,45 +21,49 @@ Menu::Menu() {
 
 // Define button colors
 Color DARKORANGE = { 200, 100, 0, 255 };
+Color DARKRED = { 139, 0, 0, 255 };
 
 // Button definitions
-Button SignUp = { {425, 300, 150, 50}, "  Sign Up ", BLUE, DARKBLUE };
-Button LogIn = { {425, 400, 150, 50}, "    Log in ", BLUE, DARKBLUE };
-Button Done = { {425, 500, 150, 50}, "    Done ", GREEN, DARKGREEN };
-Button Back = { {400, 700, 200, 60}, "  Back", RED, MAROON };
-Button Subject1 = { {425, 350, 150, 50}, "Mathematics", PURPLE, DARKPURPLE };
-Button Subject2 = { {425, 400, 150, 50}, "Geography", ORANGE, DARKORANGE };
-Button Subject3 = { {425, 450, 150, 50}, "Science", SKYBLUE, DARKBLUE };
-Button Test1 = { {425, 350, 150, 50}, "  Easy", GREEN, DARKGREEN };
-Button Test2 = { {425, 400, 150, 50}, "  Medium", YELLOW, GOLD };
-Button Test3 = { {425, 450, 150, 50}, "  Hard", RED, MAROON };
-Button Scores = { {425, 600, 150, 50}, " Scores ", VIOLET, DARKPURPLE };
+Button SignUp = { { 425, 300, 150, 50 }, "  Sign Up ", BLUE, DARKBLUE };
+Button LogIn = { { 425, 400, 150, 50 }, "    Log in ", BLUE, DARKBLUE };
+Button Done = { { 425, 500, 150, 50 }, "    Done ", GREEN, DARKGREEN };
+Button Back = { { 400, 700, 200, 60 }, "      Back", RED, MAROON };
+Button Subject1 = { { 425, 350, 150, 50 }, "Mathematics", PURPLE, DARKPURPLE };
+Button Subject2 = { { 425, 400, 150, 50 }, "Geography", ORANGE, DARKORANGE };
+Button Subject3 = { { 425, 450, 150, 50 }, "Science", SKYBLUE, DARKBLUE };
+Button Test1 = { { 425, 350, 150, 50 }, "  Easy", GREEN, DARKGREEN };
+Button Test2 = { { 425, 400, 150, 50 }, "  Medium", YELLOW, GOLD };
+Button Test3 = { { 425, 450, 150, 50 }, "  Hard", RED, MAROON };
+Button Scores = { { 425, 570, 150, 50 }, "  Scores ", VIOLET, DARKPURPLE };
+Button LogOut = { { 425, 650, 150, 50 }, "  Log Out ", MAROON, DARKRED };
 
+// Draws the menu based on the current state.
 void Menu::draw(int state) {
     ClearBackground(RAYWHITE);
     switch (state) {
-    case 1:
-        DrawText("Welcome to Nexus", 350, 180, 30, DARKGRAY);
+    case 1: // Main Menu
+        DrawText("  Welcome to Nexus", 350, 180, 30, BLACK);
         DrawButton(SignUp);
         DrawButton(LogIn);
         break;
     case 2: // Sign-up
     case 3: // Log-in
-        DrawText(state == 2 ? "Create an Account" : "Log Into Your Account", 340, 220, 30, DARKGRAY);
+        DrawText(state == 2 ? "Create an Account" : "Log Into Your Account", 340, 220, 30, BLACK);
         DrawText("Enter Username:", 350, 270, 20, BLACK);
         DrawText(usernameInput.c_str(), 350, 300, 20, BLACK);
         DrawButton(Done);
         DrawButton(Back);
         break;
     case 4: // Choose subject
-        DrawText("Choose a Subject", 370, 250, 35, DARKGRAY);
+        DrawText("Choose a Subject", 370, 250, 35, BLACK);
         DrawButton(Subject1);
         DrawButton(Subject2);
         DrawButton(Subject3);
         DrawButton(Scores);
+        DrawButton(LogOut);
         break;
     case 5: case 6: case 7: // Difficulty selection
-        DrawText("Choose a Difficulty", 360, 270, 35, DARKGRAY);
+        DrawText("Choose a Difficulty", 360, 270, 35, BLACK);
         DrawButton(Test1);
         DrawButton(Test2);
         DrawButton(Test3);
@@ -80,13 +85,14 @@ void Menu::draw(int state) {
     }
 }
 
+// Updates the menu based on user input and game state.
 void Menu::update(int& state) {
     switch (state) {
-    case 1:
+    case 1: // Main menu input
         if (IsButtonPressed(SignUp)) state = 2;
         if (IsButtonPressed(LogIn)) state = 3;
         break;
-    case 2: case 3:
+    case 2: case 3: // Sign-up/Log-in input
         handleUsernameInput();
         if (IsButtonPressed(Done) && !usernameInput.empty()) {
             if (state == 2) Account::createAccount(usernameInput);
@@ -97,35 +103,37 @@ void Menu::update(int& state) {
         }
         if (IsButtonPressed(Back)) state = 1;
         break;
-    case 4:
+    case 4: // Subject selection input
         if (IsButtonPressed(Subject1)) state = 5;
         if (IsButtonPressed(Subject2)) state = 6;
         if (IsButtonPressed(Subject3)) state = 7;
         if (IsButtonPressed(Scores)) state = 10;
+        if (IsButtonPressed(LogOut)) state = 1 ;
         break;
-    case 5: case 6: case 7:
+    case 5: case 6: case 7: // Difficulty selection input
         if (IsButtonPressed(Test1)) { loadTest(state, "easy"); state = 8; }
         if (IsButtonPressed(Test2)) { loadTest(state, "medium"); state = 8; }
         if (IsButtonPressed(Test3)) { loadTest(state, "hard"); state = 8; }
         if (IsButtonPressed(Back)) state = 4;
         break;
-    case 8:
+    case 8: // Test display input
         if (currentTest) {
             currentTest->handleInput();
             if (currentTest->isFinished()) state = 9;
         }
         if (IsButtonPressed(Back)) state = 4;
         break;
-    case 9:
+    case 9: // Score screen input
         if (currentAccount) currentAccount->updateScore(currentTest->getScore(), currentTest->getFileName());
         if (IsButtonPressed(Back)) state = 4;
         break;
-    case 10:
+    case 10: // Scoreboard input
         if (IsButtonPressed(Back)) state = 4;
         break;
     }
 }
 
+// Handles username input from the keyboard.
 void Menu::handleUsernameInput() {
     int key = GetCharPressed();
     while (key > 0) {
@@ -139,6 +147,7 @@ void Menu::handleUsernameInput() {
     }
 }
 
+// Loads a test based on subject and difficulty.
 void Menu::loadTest(int subjectState, const std::string& difficulty) {
     std::string filename;
     if (subjectState == 5) filename = "math_" + difficulty + ".txt";
@@ -148,9 +157,10 @@ void Menu::loadTest(int subjectState, const std::string& difficulty) {
     currentTest = new Test(filename);
 }
 
+// Draws the scoreboard.
 void Menu::drawScores() {
     DrawText("Scores:", 400, 150, 30, BLACK);
-    std::vector<std::pair<std::string, std::map<std::string, int>>> scoreList = Account::getDetailedScoreList();
+    std::vector<std::pair<std::string, std::map<std::string, int>>> scoreList = Account::ScoreList();
     int y = 200;
     for (const auto& userScores : scoreList) {
         DrawText((userScores.first + ":").c_str(), 400, y, 20, DARKGRAY);

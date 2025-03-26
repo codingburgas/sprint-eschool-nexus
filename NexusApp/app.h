@@ -1,15 +1,9 @@
 #ifndef APP_H
 #define APP_H
-#include <raylib.h>
-#include "menu.h"
 
-	void app();
-	
+#include "menu.h" 
 
-
-
+// Function declaration for the main application function
+void app();
 
 #endif 
-
-
-

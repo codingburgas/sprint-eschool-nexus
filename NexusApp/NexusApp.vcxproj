@@ -144,7 +144,6 @@
     <ClInclude Include="account.h" />
     <ClInclude Include="app.h" />
     <ClInclude Include="buttons.h" />
-    <ClInclude Include="main.h" />
     <ClInclude Include="menu.h" />
     <ClInclude Include="questions.h" />
     <ClInclude Include="test.h" />

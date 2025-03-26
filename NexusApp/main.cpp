@@ -1,7 +1,10 @@
 
 
-#include "app.h"
+#include "app.h" 
+
 int main() {
 
-	app();
+    app(); //start the application
+
+    return 0; 
 }
